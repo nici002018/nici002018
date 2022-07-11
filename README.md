@@ -42,6 +42,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Niceas/Niceas/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Niceas/Niceas/blob/output/snake.svg" alt="Snake" />
 
 ###
