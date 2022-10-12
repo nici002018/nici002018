@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nici002018/nici002018/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nici002018/nici002018/blob/output/snake.yml" alt="Snake animation" />
 
 ###
 
