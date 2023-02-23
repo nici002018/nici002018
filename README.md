@@ -6,8 +6,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nici002018&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nici002018&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://meme-api.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nici002018&icon=6&color=12)](https://visitcount.itsvg.in)
