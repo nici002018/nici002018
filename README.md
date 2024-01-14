@@ -6,10 +6,10 @@
 
 <div align="center"> 
   <a href="mailto:contact@niceas.de">
-    <img width=64 src="https://www.gnhub.de/assets/websites-icon.png" />
+    <img width=64 src="https://www.gnhub.de/assets/mail-icon.png" />
   </a>
   <a href="https://www.niceas.de">
-     <img width=64 src="https://www.gnhub.de/assets/mail-icon.png" /
+     <img width=64 src="https://www.gnhub.de/assets/websites-icon.png" /
   </a>
 </div>
 
