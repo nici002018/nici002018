@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Niceas Website
 
-## Getting Started
+This is the repository for my portfolio website, built with Next.js and React.
 
-First, run the development server:
+## 🚀 Installation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Follow these steps to install and run the project locally:
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/nici002018/niceas-website.git
+   cd niceas-website
+   ```
+
+2. Install the dependencies:
+
+   ```sh
+   npm install
+   ```
+
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+The application should now be running at `http://localhost:3000`.
+
+## 📜 Scripts
+
+- `npm run dev`: Starts the development server.
+- `npm run build`: Builds the project for production.
+- `npm run start`: Starts the production server.
+- `npm run lint`: Runs linter checks.
+
+## 📂 Directory Structure
+
+```
+.eslintrc.json .github/ workflows/ deploy.yml .gitignore .next/ app-build-manifest.json build-manifest.json cache/ config.json swc/ webpack/ package.json react-loadable-manifest.json server/ _error.js app/ app-paths-manifest.json interception-route-rewrite-manifest.js middleware-build-manifest.js ... static/ ... trace types/ jsconfig.json next.config.js next.config.mjs package.json postcss.config.mjs public/ README.md src/ app/ pages/ styles/ tailwind.config.js
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Three.js](https://threejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🌟 Projects
 
-## Learn More
+Here are some of the projects featured on the website:
 
-To learn more about Next.js, take a look at the following resources:
+- [Fivem Autoupdater](https://github.com/nici002018/Fivem-Autoupdater): A Node.js script providing an automatic updater for a FiveM FXServer.
+- [Github-Commits-Faker](https://github.com/nici002018/Github-Commits-Faker): A script to generate fake GitHub commits for testing purposes.
+- [About me Website](https://github.com/nici002018/nici002018/tree/Website): My current portfolio website built with Next.js and React.
+- [About me Website (Old)](https://github.com/nici002018/about-me-website): My old portfolio website built with Node.js and Express.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌍 Live View
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Check out the live version of the website at [niceas.de](https://niceas.de).
 
-## Deploy on Vercel
+## 📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
