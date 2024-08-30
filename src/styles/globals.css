@@ -68,6 +68,7 @@ li {
 a {
   color: rgb(128, 168, 255);
   text-decoration: none;
+  font: 1.3em sans-serif;
 }
 
 /* Media Queries for Smaller Screens */
