@@ -47,7 +47,7 @@ function Content() {
         className="profile-container"
       >
         <Image
-          src="/profile.svg"
+          src="/profile.webp"
           alt="Profile Picture"
           className="profile-picture"
           priority

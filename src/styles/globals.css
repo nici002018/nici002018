@@ -73,10 +73,6 @@ a {
 
 /* Media Queries for Smaller Screens */
 @media (max-width: 768px) {
-  .container {
-    margin-top: 50px;
-  }
-
   .profile-picture {
     width: 100px;
     height: 100px;
