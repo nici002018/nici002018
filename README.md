@@ -9,7 +9,7 @@ Follow these steps to install and run the project locally:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/nici002018/niceas-website.git
+   git clone https://github.com/nici002018/nici002018.git
    cd niceas-website
    ```
 
