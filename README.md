@@ -10,7 +10,7 @@ Follow these steps to install and run the project locally:
 
    ```sh
    git clone https://github.com/nici002018/nici002018.git
-   cd niceas-website
+   cd nici002018
    ```
 
 2. Install the dependencies:
